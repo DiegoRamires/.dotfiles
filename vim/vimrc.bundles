@@ -2,8 +2,7 @@ Plugin 'gmarik/Vundle.vim'
 
 " This is halting the entire vim startup process
 "Plugin 'jimmy-ai/jimmy-vim'
-Plugin 'kurko/autocoder.vim'
-Plugin 'kurko/smartest.vim'
+
 
 
 Plugin 'scrooloose/nerdtree'

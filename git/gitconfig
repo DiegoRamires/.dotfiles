@@ -27,8 +27,8 @@
   la = !git l --all
 
 [user]
-	name = Alexandre de Oliveira
-	email = chavedomundo@gmail.com
+	name = Diego Ramires
+	email = goncalves.ramires@gmail.com
 
 [color]
   diff = auto
@@ -41,17 +41,17 @@
   auto = 1
 
 [core]
-	excludesfile = /Users/kurko/.gitignore
+	excludesfile = /Users/DiegoRamires/.gitignore
 	editor = vim
 
 [merge]
   tool = vimdiff
 [github]
-	user = kurko
+	user = DiegoRamires
 [push]
 	default = simple
 [ghi]
-	token = !security find-internet-password -a kurko -s github.com -l 'ghi token' -w
+	token = !security find-internet-password -a DiegoRamires -s github.com -l 'ghi token' -w
 
 [filter "lfs"]
 	clean = git-lfs clean %f
